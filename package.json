@@ -4,9 +4,11 @@
   "private": true,
   "dependencies": {
     "@popperjs/core": "^2.11.6",
+    "@tanstack/react-query": "^4.0.10",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.27.2",
     "bootstrap": "^5.2.0",
     "react": "^18.2.0",
     "react-browser-extension-scripts": "4.0.10",
