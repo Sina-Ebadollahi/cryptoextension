@@ -14,6 +14,7 @@ export default function Coin( { data } ) {
     return th;
   }
   return (
+    //   data.changePercent24Hr.charAt(0) == '-' ? 'bg-danger' : 'bg-success'
     <div  className={`col-md-12 row ${hoverBackground}`} onMouseEnter={() => setHoverBackground("bg-secondary")} onMouseLeave={() => setHoverBackground("")}>
       <div className="col-md-4 row">
         <div className="col-6 ">

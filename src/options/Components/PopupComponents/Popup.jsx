@@ -23,7 +23,6 @@ export default function Popup() {
                     )
                 }
             })}
-            ss
         </div>
     );
 }
